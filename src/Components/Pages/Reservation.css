@@ -1,0 +1,42 @@
+
+.form{
+    background: #495e58;
+}
+.confirmation{
+    background: #495e58;
+    text-align: center;
+    padding: 40px;
+}
+.confirmation button{
+    border-radius: 10px;
+    color: black;
+    background: #f3ce15;
+    border: none;
+    padding: 15px;
+}
+.main-form{
+    width: 50vw;
+    padding: 20px;
+    margin: auto;
+}
+textarea{
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+}
+.submit-button{
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+button[type="submit"]{
+    border-radius: 10px;
+    color: black;
+    background: #f3ce15;
+    border: none;
+    padding: 15px;
+}
+
+.error{
+    color: red;
+}
